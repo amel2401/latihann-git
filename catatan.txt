@@ -17,4 +17,4 @@ Halo ini adalah modul pembelajaran yang akan saya pelajari kedepannya
   Tujuan Pembelajaran: Bekerja sama menggunakan alur kerja tim (team workflow)
 
 Working Tree & Staging Area
-alur Working Directory, Staging Area, Local Repository
+alur Working Copy, Staging Area, Local Repository
