@@ -1,0 +1,17 @@
+Halo ini adalah modul pembelajaran yang akan saya pelajari kedepannya
+- Version Control
+  Tujuan Pembelajaran: Memahami mengapa Version Control System (VCS) atau sistem kontrol versi sangat dibutuhkan
+- Git Fundamentals
+  Tujuan Pembelajaran: Memahami konsep working tree & staging area
+- Commit
+  Tujuan Pembelajaran: Membuat commit yang bermakna dan terstruktur
+- Branch
+  Tujuan Pembelajaran: Memahami percabangan fitur (feature branching)
+- Remote
+  Tujuan Pembelajaran: Melakukan push dan pull kode dengan GitHub
+- Pull Request
+  Tujuan Pembelajaran: Membuat dan merespons Pull Request (PR).
+- Conflict
+  Tujuan Pembelajaran: Menyelesaikan konflik penggabungan kode (merge conflicts)
+- Collaboration
+  Tujuan Pembelajaran: Bekerja sama menggunakan alur kerja tim (team workflow)
